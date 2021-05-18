@@ -1,0 +1,43 @@
+_repo: Kibun-Daizin-Or-From-Shark-Boy-to-Merchant-Prince_65320
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Varian, George
+    alias: Varian, George Edmund
+    birthdate: 1865
+    deathdate: 1923
+    gutenberg_agent_id: '31657'
+    url: http://www.gutenberg.org/2009/agents/31657
+  translator:
+    agent_name: Yoshida, Masao
+    gutenberg_agent_id: '53288'
+    url: http://www.gutenberg.org/2009/agents/53288
+creator:
+  author:
+    agent_name: Murai, Gensai
+    aliases:
+    - 村井弦斎
+    - 村井弦齋
+    - Murai, Kan
+    - 村井弦齊
+    - Murai, Yutaka
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '53287'
+    url: http://www.gutenberg.org/2009/agents/53287
+description: ''
+gutenberg_issued: '2021-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65320'
+  lccn: '05000753'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Fiction'
+- !lcc 'PL'
+- GITenberg
+title: Kibun Daizin; Or, From Shark-Boy to Merchant Prince
+url: http://www.gutenberg.org/ebooks/65320
